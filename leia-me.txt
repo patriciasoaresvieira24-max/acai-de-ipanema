@@ -1,0 +1,9 @@
+Açaí de Ipanema — site delivery exclusivo.
+
+Publicação da versão HTML: envie esta pasta ou ZIP pelo Netlify Drop para atualizar seu site simples.
+
+Apenas entrega em São Bernardo do Campo: não há opção de retirada. O frete é estimado, não cotação oficial da Uber ou 99.
+
+Esta versão continua enviando o pedido pelo WhatsApp; não processa pagamento online.
+
+Para usar a versão com Mercado Pago e painel, é necessário publicar o projeto completo de integração com funções de servidor, após configurar as credenciais e fazer testes.
